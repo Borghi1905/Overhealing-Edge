@@ -23,7 +23,7 @@ Este projeto faz parte do sistema **OVERHEALING**, responsável por monitorament
 ---
 
 ## 🖼️ Imagens do Circuito
-![Gráfico](imgs/Thinkspeak.png)
+![Gráfico](imgs/Thingspeak.png)
 ![Console](imgs/Wokwi.png)
 
 
